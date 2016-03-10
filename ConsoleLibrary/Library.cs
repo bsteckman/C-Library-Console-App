@@ -52,7 +52,7 @@ namespace ConsoleLibrary
             for(var i = 0; i<library.Books.Count; i++)
             {
                 k = i + 1;
-                Console.WriteLine(k.ToString() + ". " + library.Books[i].Title);
+                Console.WriteLine(k.ToString() + ". Author: " + library.Books[i].Author + "," + " Title: " + library.Books[i].Title + "," + " ID: " + library.Books[i].ID);
             }
             k += 1;
             Console.WriteLine(k.ToString() + ". Return Book");
@@ -62,7 +62,7 @@ namespace ConsoleLibrary
             try
             {
                 int j = int.Parse(selection);
-                if (j < library.Books.Count)
+                if (j <= library.Books.Count)
                 {
                     library.SelectBook(library.Books[j - 1], library);
                 }
