@@ -1,0 +1,6 @@
+c:\users\eveni\onedrive\documents\visual studio 2015\Projects\ConsoleLibrary\ConsoleLibrary\bin\Debug\ConsoleLibrary.exe.config
+c:\users\eveni\onedrive\documents\visual studio 2015\Projects\ConsoleLibrary\ConsoleLibrary\bin\Debug\ConsoleLibrary.exe
+c:\users\eveni\onedrive\documents\visual studio 2015\Projects\ConsoleLibrary\ConsoleLibrary\bin\Debug\ConsoleLibrary.pdb
+c:\users\eveni\onedrive\documents\visual studio 2015\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\ConsoleLibrary.exe
+c:\users\eveni\onedrive\documents\visual studio 2015\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\ConsoleLibrary.pdb
+c:\users\eveni\onedrive\documents\visual studio 2015\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\ConsoleLibrary.csprojResolveAssemblyReference.cache
